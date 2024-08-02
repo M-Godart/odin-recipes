@@ -1,3 +1,12 @@
-Premier projet avec The Odin Project : 
+Odin-recipes
+Creating a small website (only using HTML) of recipes
 
-Réalisation d'un site de recettes de cuisine
+## Skills required :
+HTML
+git and GitHub
+Linux basic commands
+
+##  Project's Goals :
+Better understanding of HTML
+Practice git and github
+Practice unix commands
